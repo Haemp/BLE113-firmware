@@ -16,6 +16,6 @@ http://mt-system.ru/sites/default/files/documents/ble_application_note_crp_senso
 
 Problems
 -----------
-[] No easy way to program the external BLE-113
-[] Programming the BLE-113 for multi input forwarding - theoretically solved.
-[] Creating a simplistic touch surface - theoretically solved.
+- [ ] No easy way to program the external BLE-113
+- [ ] Programming the BLE-113 for multi input forwarding - theoretically solved.
+- [ ] Creating a simplistic touch surface - theoretically solved.
