@@ -13,3 +13,9 @@ http://mt-system.ru/sites/default/files/documents/ble_application_note_crp_senso
 * Set direction of port - rising or falling on edge - call hardware_io_port_irq_direction(port, falling_edge)(result)
 * Activate port - call hardware_io_port_irq_enable(port, enable_bits)(result)
 * Event handler for interupts - event hardware_io_port_status(timestamp, port, irq, state)
+
+Problems
+-----------
+[ ] No easy way to program the external BLE-113
+[ ] Programming the BLE-113 for multi input forwarding - theoretically solved.
+[ ] Creating a simplistic touch surface - theoretically solved.
